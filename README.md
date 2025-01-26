@@ -5,7 +5,6 @@
 
 Apaixonado por tecnologia, autodidata, motivado por desafios e entrega de valor. Estudo programação desde 2018 com foco em Java com Spring para desenvolvimento web. Já trabalhei em alguns projetos como freelancer desenvolvendo sites, landing pages e aplicações web.
 
-Estou em busca de oportunidades de trabalho.
 
 ## Conecte-se comigo
 
