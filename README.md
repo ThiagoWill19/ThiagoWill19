@@ -3,7 +3,10 @@
 
 # Thiago William Pompeu
 
-Apaixonado por tecnologia, autodidata, motivado por desafios e entrega de valor. Estudo programação desde 2018 com foco em Java com Spring para desenvolvimento web. Já trabalhei em alguns projetos como freelancer desenvolvendo sites, landing pages e aplicações web.
+Desenvolvedor Java em transição de carreira, focado em desenvolvimento web com Spring Boot.
+Crio projetos práticos para consolidar fundamentos de backend, APIs REST e boas práticas.
+Já atuei como freelancer desenvolvendo sites, landing pages e aplicações web.
+Aberto a oportunidades como desenvolvedor Java backend.
 
 
 ## Conecte-se comigo
