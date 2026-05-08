@@ -3,10 +3,15 @@
 
 # Thiago William Pompeu
 
-Desenvolvedor Java em transição de carreira, focado em desenvolvimento web com Spring Boot.
-Crio projetos práticos para consolidar fundamentos de backend, APIs REST e boas práticas.
-Já atuei como freelancer desenvolvendo sites, landing pages e aplicações web.
-Aberto a oportunidades como desenvolvedor Java backend.
+Desenvolvedor Backend Java com foco em aplicações web utilizando Spring Boot, APIs REST e arquitetura MVC.
+
+Experiência prática no desenvolvimento de sistemas backend com autenticação, regras de negócio, persistência de dados e integração entre camadas utilizando Spring Security, JPA/Hibernate e MySQL.
+
+Autor do Aprimore, sistema de gestão de ordens de serviço e PCP voltado ao setor gráfico.
+
+Também atuei como freelancer desenvolvendo sites, landing pages e aplicações web para diferentes segmentos.
+
+Aberto a oportunidades como Desenvolvedor Backend Java.
 
 
 ## Conecte-se comigo
