@@ -1,37 +1,40 @@
+# Thiago Pompeu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=AA42F7&width=435&lines=Olá!+Seja+bem-vindo+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
+**Java Backend Developer | Spring Boot | APIs REST | Sistemas de Gestão**
 
-# Thiago William Pompeu
+Desenvolvedor Backend Java com foco em aplicações web e sistemas orientados a regras de negócio.
 
-Desenvolvedor Backend Java com foco em aplicações web utilizando Spring Boot, APIs REST e arquitetura MVC.
+Venho trabalhando com Java desde 2017 e desenvolvendo projetos próprios utilizando Spring Boot, Spring Security, JPA/Hibernate, MySQL e APIs REST.
 
-Experiência prática no desenvolvimento de sistemas backend com autenticação, regras de negócio, persistência de dados e integração entre camadas utilizando Spring Security, JPA/Hibernate e MySQL.
+## Projeto principal
 
-Autor do Aprimore, sistema de gestão de ordens de serviço e PCP voltado ao setor gráfico.
+### 🚀 Aprimore
 
-Também atuei como freelancer desenvolvendo sites, landing pages e aplicações web para diferentes segmentos.
+Sistema de gestão de ordens de serviço e Planejamento e Controle da Produção (PCP) desenvolvido para um contexto real do setor gráfico.
 
-Aberto a oportunidades como Desenvolvedor Backend Java.
+O projeto envolve:
 
+* Regras de negócio e validações de domínio
+* Gestão de ordens de serviço
+* Planejamento e Controle da Produção (PCP)
+* Controle de prioridades e sequência de produção
+* Controle de acesso por empresa e usuário
+* Persistência com JPA/Hibernate
+* Spring Security
+* DTOs
+* Transações
+* Dashboard operacional
 
-## Conecte-se comigo
+Além do desenvolvimento de aplicações, tenho estudado os fundamentos da plataforma Java, incluindo JVM, bytecode, ClassLoader, execução de código e JIT.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pompeu/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagowill_pompeu/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:thiagopompeu19@outlook.com)
+## Principais tecnologias
 
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA
 
-## Habilidades
+**Banco de dados:** MySQL
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend:** Thymeleaf
 
+**Testes:** JUnit, Mockito
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
+**Ferramentas:** Git, Maven
